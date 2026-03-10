@@ -1,0 +1,10 @@
+[project]
+name = "google-pay-mcp-server"
+version = "0.1.0"
+description = "Google Pay utility MCP server built with FastMCP"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "mcp>=1.0.0",
+]
+
